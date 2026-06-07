@@ -1,0 +1,32 @@
+# Compiled binaries and DLLs
+*.dll
+*.exe
+*.pdb
+*.msi
+*.msm
+
+# Build and IDE artifacts
+*.obj
+*.log
+*.tmp
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.ipch
+.vs/
+bin/
+obj/
+ipch/
+AnalyseReport.html
+
+# Local configuration
+settings.ini
+local.ini
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
